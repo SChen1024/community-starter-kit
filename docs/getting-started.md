@@ -34,5 +34,4 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+测试文本, 测试短句
