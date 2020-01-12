@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+一个简单的入门样例, 用于展示如何开启一个开源功能以及日常维护
 
 ## What it does
-
-FEATURES PLACEHOLDER
+- 介绍如何使用开源社区
+- 完成整个流程
+- 完善执行标准 
 
 ## Getting started
 
